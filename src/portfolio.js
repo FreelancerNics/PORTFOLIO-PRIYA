@@ -167,7 +167,7 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    " Initially started my career with a freelancing startup called JP DIGITAL in which organizations were enhanced in a digital way with help of SEO & SMM  and also took part in many internship & volunteership. I'm currently working in an evolving startup NUVLINZ PVT. LTD.",
+    " Initially started my career with a freelancing startup called JP DIGITAL in which organizations were enhanced in a digital way with help of SEO & SMM  and also took part in many internship & volunteership. I'm currently working in an evolving startup NULINZ PVT. LTD.",
   header_image_path: "experience.svg",
   sections: [
     {
